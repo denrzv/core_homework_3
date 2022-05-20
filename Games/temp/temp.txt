@@ -1,0 +1,14 @@
+2022-05-20 08:16:08.69 Запуск программы
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/src создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/res создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/savegames создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/temp создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/src/main создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/src/test создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/res/drawables создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/res/vectors создан
+2022-05-20 08:16:08.699 Каталог /Users/longlive/IdeaProjects/core_homework_3/Games/res/icons создан
+2022-05-20 08:16:08.699 Файл /Users/longlive/IdeaProjects/core_homework_3/Games/src/Main.java создан
+2022-05-20 08:16:08.699 Файл /Users/longlive/IdeaProjects/core_homework_3/Games/src/Utils.java создан
+2022-05-20 08:16:08.7 Файл /Users/longlive/IdeaProjects/core_homework_3/Games/temp/temp.txt создан
